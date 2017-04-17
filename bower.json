@@ -11,9 +11,6 @@
     "typed",
     "animation"
   ],
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-rename": "^1.2.0",
-    "gulp-uglify": "^1.1.0"
-  }
+  "ignore": [],
+  "license": "MIT"
 }
